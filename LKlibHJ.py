@@ -516,7 +516,7 @@ def get_dy_MT_S07(y_MT_vect, par, par_MT):
     return dy_MT_vect
 
 
-@njit(nopython=True)
+@njit
 def get_dy_MT_non_cons(y_MT_vect, par, par_MT):
     """
     assuming mass losses from the planet are all lost from the system

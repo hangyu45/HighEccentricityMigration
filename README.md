@@ -1,6 +1,6 @@
 ## Readme
 
-This repository contains source codes used to generate results of https://arxiv.org/abs/2406.00187. It evolves a hierarchical triple system under the Lidov-Kozai oscillation and couples the evolution with tidal dissipation, mass loss/transfer, and/or radius inflation/contraction. 
+This repository contains source code used to generate results of https://arxiv.org/abs/2406.00187. It evolves a hierarchical triple system under the Lidov-Kozai oscillation and couples the evolution with tidal dissipation, mass loss/transfer, and/or radius inflation/contraction. 
 
 
 ## Quick Start Guide

@@ -1,0 +1,8 @@
+__pycache__/
+data/
+run_rec/
+.ipynb_checkpoints/
+*.pdf
+*.h5
+*.err
+*.out
